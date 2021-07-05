@@ -17,5 +17,5 @@ docker run -v $PWD/component:/dst -t tflite-generator
 
 3) Move component folder into your esp_project folder
 ```
-sudo mv ./component/ PROJECT_PATH/
+sudo mv ./component PROJECT_PATH/
 ```
